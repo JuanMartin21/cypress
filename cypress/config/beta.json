@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://beta-URL",
+  "defaultCommandTimeout": 25000,
+  "haikouApi": "----------------",
+  "xAccess": "---------",
+  "authorization": "--------"
+}

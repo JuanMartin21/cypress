@@ -1,0 +1,32 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "2E2 framework testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open --browser chrome --e2e",
+    "cypress:dev": "cypress open --env version=dev",
+    "cypress:beta": "cypress open --env version=beta",
+    "pre-commit": "npx prettier . --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanMartin21/cypress.git"
+  },
+  "keywords": [
+    "E2E",
+    "automation",
+    "framework",
+    "cypress"
+  ],
+  "author": "tincho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanMartin21/cypress/issues"
+  },
+  "homepage": "https://github.com/JuanMartin21/cypress#readme",
+  "devDependencies": {
+    "cypress": "^13.13.2",
+    "cypress-xpath": "^2.0.1"
+  }
+}
