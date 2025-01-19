@@ -1,0 +1,33 @@
+{
+  "business": {
+    "potential": "Tier 3",
+    "painPoints": "Tarifas altas",
+    "country": "Colombia",
+    "city": "Bogotá",
+    "address": "Transversal 10 # 18c-25",
+    "website": "http://textilesmartin.co",
+    "admin": "Aaron Chen",
+    "controller": "Aaron Chen",
+    "sales": "Ana Pau Flores",
+    "customerSuccess": "Alexis Anderson",
+    "name": "Business test",
+    "industry": "Maquinaria"
+  },
+  "contacts": {
+    "name": "Juan Pereira",
+    "phone": "3008009070",
+    "position": "Administración"
+  },
+  "billingInformation": {
+    "financeUrlFolder": "http://financesdrive.google.com",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "address": "Avenida Siempre viva 123",
+    "companyName": "New registered company",
+    "socialReason": "New company ltd",
+    "phoneNumber": "018009005080",
+    "comexContactName": "Robert Oppenhaimer",
+    "billingContactName": "Alan Turing",
+    "billingContactPhoneNumber": "3107564108"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "business": {
+    "potential": "Tier 3",
+    "painPoints": "Tarifas altas",
+    "country": "México",
+    "city": "Guadalajara",
+    "website": "http://textilesmartin.mx",
+    "admin": "Adaline Legros",
+    "controller": "Adella Cummerata",
+    "sales": "Ana Pau Flores",
+    "customerSuccess": "Alfred Schoen",
+    "industry": "Otro",
+    "tributaryInformation": "601",
+    "accountNumber": "2121"
+  },
+  "contacts": {
+    "position": "Administración"
+  },
+  "billingInformation": {
+    "financeUrlFolder": "http://financesdrive.google.com"
+  }
+}

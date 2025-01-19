@@ -1,0 +1,26 @@
+{
+  "business": {
+    "potential": "Tier 2",
+    "painPoints": "Tarifas altas",
+    "country": "Perú",
+    "city": "Lima",
+    "website": "http://empresaPeru.com",
+    "admin": "Adaline Legros",
+    "controller": "Adella Cummerata",
+    "sales": "Ana Pau Flores",
+    "customerSuccess": "Alfred Schoen",
+    "industry": "Otro"
+  },
+  "contacts": {
+    "position": "Administración"
+  },
+  "billingInformation": {
+    "country": "Perú",
+    "departament": "Cundinamarca",
+    "city": "Lima",
+    "establishmentCode": "334",
+    "ubigeoCode": "ABA 334",
+    "lineCode": "21",
+    "LinkFile": "www.tinchoTest.com"
+  }
+}

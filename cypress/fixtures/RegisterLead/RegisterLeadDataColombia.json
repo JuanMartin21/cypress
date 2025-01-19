@@ -1,0 +1,24 @@
+{
+  "business": {
+    "potential": "Tier 2",
+    "painPoints": "Tarifas altas",
+    "country": "Colombia",
+    "city": "Bogotá",
+    "website": "http://empresaChile.com",
+    "admin": "Adaline Legros",
+    "controller": "Adella Cummerata",
+    "sales": "Ana Pau Flores",
+    "customerSuccess": "Alfred Schoen",
+    "industry": "Otro"
+  },
+  "contacts": {
+    "position": "Administración"
+  },
+  "billingInformation": {
+    "country": "Colombia",
+    "departament": "Cundinamarca",
+    "city": "Bogotá",
+    "basicDate": "33",
+    "complement": "Automation"
+  }
+}

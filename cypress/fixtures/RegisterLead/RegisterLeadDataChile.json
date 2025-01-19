@@ -1,0 +1,25 @@
+{
+  "business": {
+    "potential": "Tier 2",
+    "painPoints": "Tarifas altas",
+    "country": "Chile",
+    "city": "Maipo",
+    "website": "http://empresaChile.com",
+    "admin": "Adaline Legros",
+    "controller": "Adella Cummerata",
+    "sales": "Ana Pau Flores",
+    "customerSuccess": "Alfred Schoen",
+    "industry": "Otro"
+  },
+  "contacts": {
+    "position": "Administración"
+  },
+  "billingInformation": {
+    "financeUrlFolder": "http://financesdrive.google.com",
+    "country": "Chile",
+    "region": "Metropolitana de Santiago",
+    "city": "Maipo",
+    "Complement": "Automation",
+    "tributaryVerification": 3
+  }
+}
